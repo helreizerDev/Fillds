@@ -1,6 +1,5 @@
-HRender.o: \
- c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/HRender.cpp \
- c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/HRender.h \
+HRender.o: c:/Users/steven/Documents/GitHub/Fillds/source/HRender.cpp \
+ c:/Users/steven/Documents/GitHub/Fillds/source/HRender.h \
  c:/devkitPro/libctru/include/3ds.h \
  c:/devkitPro/libctru/include/3ds/types.h \
  c:/devkitPro/libctru/include/3ds/svc.h \
@@ -36,9 +35,9 @@ HRender.o: \
  c:/devkitPro/libctru/include/3ds/gpu/gpu.h \
  c:/devkitPro/libctru/include/3ds/gpu/shdr.h \
  c:/devkitPro/libctru/include/3ds/sdmc.h \
- c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/ascii64.h
+ c:/Users/steven/Documents/GitHub/Fillds/source/ascii64.h
 
-c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/HRender.h:
+c:/Users/steven/Documents/GitHub/Fillds/source/HRender.h:
 
 c:/devkitPro/libctru/include/3ds.h:
 
@@ -110,4 +109,4 @@ c:/devkitPro/libctru/include/3ds/gpu/shdr.h:
 
 c:/devkitPro/libctru/include/3ds/sdmc.h:
 
-c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/ascii64.h:
+c:/Users/steven/Documents/GitHub/Fillds/source/ascii64.h:

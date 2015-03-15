@@ -1,5 +1,5 @@
-capp.o: c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/capp.cpp \
- c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/capp.h \
+capp.o: c:/Users/steven/Documents/GitHub/Fillds/source/capp.cpp \
+ c:/Users/steven/Documents/GitHub/Fillds/source/capp.h \
  c:/devkitPro/libctru/include/3ds.h \
  c:/devkitPro/libctru/include/3ds/types.h \
  c:/devkitPro/libctru/include/3ds/svc.h \
@@ -35,10 +35,10 @@ capp.o: c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/capp.cpp \
  c:/devkitPro/libctru/include/3ds/gpu/gpu.h \
  c:/devkitPro/libctru/include/3ds/gpu/shdr.h \
  c:/devkitPro/libctru/include/3ds/sdmc.h \
- c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/HRender.h \
- c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/build/Title_bin.h
+ c:/Users/steven/Documents/GitHub/Fillds/source/HRender.h \
+ c:/Users/steven/Documents/GitHub/Fillds/build/Title_bin.h
 
-c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/capp.h:
+c:/Users/steven/Documents/GitHub/Fillds/source/capp.h:
 
 c:/devkitPro/libctru/include/3ds.h:
 
@@ -110,6 +110,6 @@ c:/devkitPro/libctru/include/3ds/gpu/shdr.h:
 
 c:/devkitPro/libctru/include/3ds/sdmc.h:
 
-c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/src/HRender.h:
+c:/Users/steven/Documents/GitHub/Fillds/source/HRender.h:
 
-c:/Users/steven/Documents/GitHub/3dshomebrews/Fillds/build/Title_bin.h:
+c:/Users/steven/Documents/GitHub/Fillds/build/Title_bin.h:
